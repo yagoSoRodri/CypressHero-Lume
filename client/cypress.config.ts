@@ -4,6 +4,7 @@ export default defineConfig({
   projectId: 'nd8nd1',
   e2e: {
     baseUrl: 'http://localhost:3000',
+    video: true,
   },
 
   component: {
